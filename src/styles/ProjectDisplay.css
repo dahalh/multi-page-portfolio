@@ -1,0 +1,35 @@
+.project {
+  width: 100%;
+  height: calc(100vh - 100px);
+  /* min-height: 50vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: -70px;
+}
+
+.project h1 {
+  margin-top: 40px;
+  color: #3e497a;
+  font-size: 35px;
+}
+.project img {
+  width: 510px;
+  border-radius: 10px;
+}
+
+.project p {
+  font-size: 30px;
+  color: #3e497a;
+}
+
+.desc {
+  text-align: center;
+  /* margin-bottom: 5px; */
+}
+
+.project svg {
+  font-size: 60px;
+  color: #3e497a;
+}
