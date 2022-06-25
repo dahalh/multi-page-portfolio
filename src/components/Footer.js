@@ -11,7 +11,7 @@ const Footer = () => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="mailto@dahalh@outlook.com"
+              href="mailto:@dahalh@outlook.com"
             >
               <i className="fas fa-envelope text-light"></i>
             </a>
