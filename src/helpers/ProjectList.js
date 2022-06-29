@@ -51,7 +51,7 @@ export const ProjectList = [
     skills: "HTML, CSS, JavaScript, React, Node",
     shortDesc:
       "This project is a expenses tracker app. You can add expenses...",
-    desc: "This project is a expenses tracker app. You can add expenses and income to keep a track of how much money is being recieve and how much money has been spent, allowing you to get an idea on what expenses is money being spent on. Please use [testaccount@testing.com] as email and [testing123] as password to login. ",
+    desc: "This project is a expenses tracker app. You can add expenses and income to keep a track of how much money is being recieve and how much money has been spent, allowing you to get an idea on what expenses is money being spent on.",
     chrome: "https://fierce-headland-56506.herokuapp.com/",
     git: "https://github.com/dahalh/expenses-tracker/",
   },
