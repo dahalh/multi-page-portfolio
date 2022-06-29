@@ -2,6 +2,7 @@ import projCalc from "../assets/calculator.png";
 import projCont from "../assets/contact.png";
 import projMovie from "../assets/movie-search.jpg";
 import projNotTo from "../assets/not-to-do.png";
+import projExpenses from "../assets/expensestracker.jpg";
 
 export const ProjectList = [
   {
@@ -43,5 +44,15 @@ export const ProjectList = [
     desc: "This project is a time management tracker. You can enter tasks and move them between good tasks and bad tasks, allowing you to see how much time you have saved and how much time you would have lost if you hadn't used the tracker.",
     chrome: "https://dahalh.github.io/time-management/",
     git: "https://github.com/dahalh/time-management",
+  },
+  {
+    name: "Expenses Tracker App",
+    image: projExpenses,
+    skills: "HTML, CSS, JavaScript, React, Node",
+    shortDesc:
+      "This project is a expenses tracker app. You can add expenses...",
+    desc: "This project is a expenses tracker app. You can add expenses and income to keep a track of how much money is being recieve and how much money has been spent, allowing you to get an idea on what expenses is money being spent on. Please use [testaccount@testing.com] as email and [testing123] as password to login. ",
+    chrome: "https://fierce-headland-56506.herokuapp.com/",
+    git: "https://github.com/dahalh/expenses-tracker/",
   },
 ];

@@ -59,8 +59,12 @@ const Home = () => {
                   <i className="fab fa-js text-warning d-block"></i> JavaScript
                 </span>
                 <span className="text-primary">
-                  <i class="fa-brands fa-bootstrap text-primary d-block"></i>
+                  <i className="fa-brands fa-bootstrap text-primary d-block"></i>
                   Bootstrap
+                </span>
+                <span className="text-success">
+                  <i className="fa-brands fa-node-js text-success d-block"></i>
+                  Node
                 </span>
               </div>
             </Col>
