@@ -13,7 +13,7 @@ const Navbar = () => {
   }, [location]);
 
   return (
-    <div className="navbar" id={expandNavbar ? "open" : "close"}>
+    <div className="navbar mb-3" id={expandNavbar ? "open" : "close"}>
       <div className="toggleButton">
         <button
           onClick={() => {

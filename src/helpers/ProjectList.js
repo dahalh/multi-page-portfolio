@@ -41,7 +41,7 @@ export const ProjectList = [
     skills: "HTML, CSS, JavaScript, React",
     shortDesc:
       "This project is a time management tracker. You can enter tasks...",
-    desc: "This project is a time management tracker. You can enter tasks and move them between good tasks and bad tasks, allowing you to see how much time you have saved and how much time you would have lost if you hadn't used the tracker.",
+    desc: "You can enter tasks and move them between good tasks and bad tasks, allowing you to see how much time you have saved and how much time you would have lost if you hadn't used the tracker.",
     chrome: "https://dahalh.github.io/time-management/",
     git: "https://github.com/dahalh/time-management",
   },
