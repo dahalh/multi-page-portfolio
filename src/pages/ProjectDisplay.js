@@ -8,8 +8,8 @@ const ProjectDisplay = () => {
   const project = ProjectList[id];
   return (
     <div className="project mt-3">
-      <h1 className="name">{project.name}</h1>
-      <img src={project.image} alt="project pic" />
+      {/* <h1 className="name">{project.name}</h1> */}
+      <img className="mt-5" src={project.image} alt="project pic" />
       <p>
         <b>Skills:</b> {project.skills}
       </p>

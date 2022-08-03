@@ -45,7 +45,7 @@ const Home = () => {
         <Container>
           <Row>
             <Col>
-              <div className="skill-list mt-5 d-flex justify-content-between fw-bold text-center flex-wrap">
+              <div className="skill-list mt-5 d-flex flex-wrap justify-content-evenly fw-bold text-center">
                 <span className="text-info">
                   <i className="fab fa-react d-block"></i> REACT
                 </span>
